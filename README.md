@@ -1,7 +1,7 @@
 # 📚 Module 3 final evaluation - 📊 Bootcamp in Data Analytics  - Carla Biscotti
 
 *In this repository, you will find the solution to the exercises of the final exam of module 3 of the Adalab Data Analysis Bootcamp, carried out by the student Carla Biscotti.
-The content of Module 2 is decribed below:*
+The content of Module 3 is decribed below:*
 
 ## 📋Module 3: Data Transformation
 
