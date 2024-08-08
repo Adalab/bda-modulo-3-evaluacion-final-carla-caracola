@@ -8,14 +8,14 @@ Find below the notes based on the EDA results. If there are no comments about so
 
 1. There are 1864 duplicates --> Exploring the results I see that there are two appearances of the same row for 1864 rows. It seems that these duplicated are due to some data error. --> DECISION: KEEP THE FIRST ONLY 
 
-2. Columns data type: las columnas 'Loyalty_number', 'year' and 'month' are numerical. It could be interesting having them as categorical. Keep in mind and change it if needed. --> DECISION: KEEP THEM AS THAY ARE
+2. Columns data type: las columnas 'Loyalty_number', 'year' and 'month' are numerical. It could be interesting having them as categorical. Keep in mind and change it if needed. --> DECISION: KEEP THEM AS THEY ARE
 
 3. Columns name --> Change format to snake case (good practice)
 
 ### Analysis per column
 
 1. Loyalty number column 
-    - There are several duplicated values. Those that call my attention are the ones that have more than 24 appearances (more than 24 months). Exploring in more detail I see that there are some duplicates that looks like errors and should be removed as the example in the image below. However, I don't see a way to do this in a straight forward manner, and rather not to lose time with this and continue with the exam. --> DECISION: KEEP THEM AS THAY ARE 
+    - There are several duplicated values. Those that call my attention are the ones that have more than 24 appearances (more than 24 months). Exploring in more detail I see that there are some duplicates that looks like errors and should be removed as the example in the image below. However, I don't see a way to do this in a straight forward manner, and rather not to lose time with this and continue with the exam. --> DECISION: KEEP THEM AS THEY ARE 
 
 ![loyalty_number_with_48_duplicates](images/loyalty_number_with_48_duplicates.png)
 
