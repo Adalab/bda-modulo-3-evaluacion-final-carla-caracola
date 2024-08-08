@@ -1,30 +1,30 @@
-# 📚 Module 3 final evaluation - 📊 Bootcamp in Data Analytics  - Carla Biscotti
+## 👋 About Me
+Hi, I'm Carla and I'm training to become a data analyst. In this repository you will find my final evaluation of Module 3 on Data Transformation and Visualization.
+
+# 📚 Module 3 final evaluation - 📊 Bootcamp in Data Analytics
 
 *In this repository, you will find the solution to the exercises of the final exam of module 3 of the Adalab Data Analysis Bootcamp, carried out by the student Carla Biscotti.
 The content of Module 3 is decribed below:*
 
 ## 📋Module 3: Data Transformation
 
-### Content category
-- ✔️ **Content**: lorem
-- ✔️ **Content**: lorem
-- ✔️ **Content**: lorem
+- ✔️ **Phyton libraries Pandas, Numpy, Matplotlib, Seaborn**
+- ✔️ **Exploratory Data Analysis**
+- ✔️ **Data cleaning and transformation**
+- ✔️ **Data visualizations**
+- ✔️ **ETL and Pipeline process**
+- ✔️ **A/B Testing**
 
+## 🧱 Built with
 
-## 🤓 About the exam
-replace
+- Python and Python libraries: Pandas, Numpy, Matplotlib, Seaborn
+- Jupyter Notebooks
 
-- **Scope of exam**: the assessment consists of a series of questions that test the understanding of the student and skills in relation to SQL
-- **Database to be used**: [SAKILA DATABASE](https://dev.mysql.com/doc/sakila/en/) 
-- **Technical interview**: after the exam, the student defends it during an individual technical interview with the teacher.
-- **Exam statement**: [exam_statement.txt](exam_statement.txt)
-- **Exam resolution**: [module_2_final_evaluation_carla.sql](module_2_final_evaluation_carla.sql)
+## 🛠️ Installation
 
-
-## 🧱Built with
-
-- add
-
+- Fork the repository
+- Execute the file '01_exploration_and_clean_up.ipynb'
+- Execute the file '02_visualizations.ipynb'
 
 ## 🙏Special thanks to
 
